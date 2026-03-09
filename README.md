@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+My name is Hannah Barton (she/her) and I am a current graduate student at the University of Chicago pursuing a degree in [Computational Analysis and Public Policy](https://capp.uchicago.edu/). I also work as an Expected Vote Analyst for AP Elections, and previously working as a Data Analyst for the School District of Philadelphia.
+
+I have a wide range of policy interests, including education, housing, and elections. 
+
 <!--
 **hannahebarton/hannahebarton** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
