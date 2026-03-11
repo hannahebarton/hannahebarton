@@ -1,8 +1,10 @@
 ## Hi there 👋
 
-My name is Hannah Barton (she/her) and I am a current graduate student at the University of Chicago pursuing a degree in [Computational Analysis and Public Policy](https://capp.uchicago.edu/). I also work as an Expected Vote Analyst for AP Elections, and previously working as a Data Analyst for the School District of Philadelphia.
+My name is Hannah Barton (she/her) and I am a current graduate student at the University of Chicago pursuing a degree in [Computational Analysis and Public Policy](https://capp.uchicago.edu/). I also work as an Expected Vote Analyst for AP Elections, and previously worked as a Data Analyst for the School District of Philadelphia.
 
 I have a wide range of policy interests, including education, housing, and elections. 
+
+LinkedIn: https://www.linkedin.com/in/hannah-barton-7a3b321b2/ 
 
 Below are projects I have been involved with.
 
